@@ -23,5 +23,3 @@ Python 3.10+, Flask, Waitress, SQLite (WAL mode), Jinja2. Money is stored as int
 2. Run `install.bat`, then `start.bat`.
 3. Open `http://localhost:5000/pos` (or use `kasa.bat` for a kiosk-style cashier window).
 4. Change the default passwords in `config.ini` (owner: `admin`, cashier: `1111`).
-
-Ukrainian documentation: [README.uk.md](README.uk.md)
